@@ -1,6 +1,9 @@
 _repo: Oeuvres-de-Voltaire-Tome-XIX-Siecle-de-Louis-XIVTome-I_68355
 _version: 0.1.0
 alternative_title: 'Oeuvres de Voltaire Tome XIX: Siècle de Louis XIV.—Tome I'
+covers:
+- cover_type: archival
+  image_path: 68355-h/images/cover.jpg
 creator:
   author:
     agent_name: Voltaire
@@ -27,6 +30,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Adrien-Jean-Quentin_Beuchot
     - https://en.wikipedia.org/wiki/Adrien-Jean-Quentin_Beuchot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68355#Oeuvres-de-Voltaire-Tome-XIX-Siecle-de-Louis-XIVTome-I
 gutenberg_issued: '2022-06-20'
 identifiers:
   gutenberg: '68355'
